@@ -7,7 +7,6 @@ Check out the live version here 👉 [Low-Level Design React POCs App](https://l
 
 🔥 Features 🔥
 
-🏠 Home: Infinite Scroll
 
 Dynamically load content as you scroll, providing a seamless experience without manual pagination. Perfect for content-heavy pages!
 
